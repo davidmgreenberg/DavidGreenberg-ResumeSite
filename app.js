@@ -12,7 +12,7 @@ function contact(event) {
         'service_w7454r5',
         'template_wuls7zo',
         event.target,
-        'pmE2Ru5hNBAHnk6tq'
+        'LkdJZdKsXT5rhtj85'
     ).then(() => {
         loading.classList.remove('modal__overlay--visible')
         success.classList += ' modal__overlay--visible'
